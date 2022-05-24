@@ -4,6 +4,9 @@ Micronaut mongo data issue with specification filter by date.
 
 Simple test demo to show that Micronaut data with specification filter by date does not work.
 
+### expected results
+query Mongo data via specification, find all data before given date
+
 
 ### to run the example:
 connect to a local mongo database with name as 'qm-dev'
